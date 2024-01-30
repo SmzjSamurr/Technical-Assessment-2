@@ -1,0 +1,23 @@
+
+    body {
+        background-color: #022a30; /* Dark Blue-Green */
+        color: #85a409; /* Light Text */
+    }
+
+    .navbar {
+        background-color: #022a30; /* Dark Blue-Green for the navbar */
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-color: #424d17; /* Light color for the toggler icon */
+    }
+
+    .navbar-light .navbar-brand,
+    .navbar-light .navbar-nav .nav-link {
+        color: #3c451a; /* Light text for brand and links */
+    }
+
+    .navbar-light .navbar-toggler:focus,
+    .navbar-light .navbar-toggler:hover {
+        background-color: #21250e; /* Light background on hover/focus */
+    }
